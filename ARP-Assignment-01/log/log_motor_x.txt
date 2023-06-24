@@ -1,0 +1,3 @@
+01:24:59: Motor Z process velocity bounds:  3,çTV
+01:24:59: Motor Z process velocity change: SPEED INCREASING
+01:25:04: Motor Z process signal received: RESET
